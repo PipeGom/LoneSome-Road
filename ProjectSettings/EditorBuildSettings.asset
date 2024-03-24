@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Nivel2.unity
     guid: b8ca2532bf6d5a0448391022437730ce
+  - enabled: 1
+    path: Assets/Scenes/Nivel3Fixed.unity
+    guid: b1842373c5125554486b00092859791a
+  - enabled: 1
+    path: Assets/Scenes/Pantalla de muerte.unity
+    guid: 046d92091009e094c9c17d5687dc6447
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: cf387785f441ae94ba8189f15e3be6d4
   m_configObjects: {}

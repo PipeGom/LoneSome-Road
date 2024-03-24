@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemigo
+  - Potion
   layers:
   - Default
   - TransparentFX
@@ -59,6 +61,21 @@ TagManager:
   - name: TileMapAdds
     uniqueID: 2580696493
     locked: 0
+  - name: Cabeza_fire
+    uniqueID: 3689439615
+    locked: 0
+  - name: Cabeza
+    uniqueID: 1288521615
+    locked: 0
+  - name: Enemigos
+    uniqueID: 2083402539
+    locked: 0
   - name: Jugador
     uniqueID: 4119437271
+    locked: 0
+  - name: imagengameover
+    uniqueID: 3554033021
+    locked: 0
+  - name: botongameover
+    uniqueID: 1139028943
     locked: 0

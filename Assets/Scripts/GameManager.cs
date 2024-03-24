@@ -21,8 +21,10 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene("SampleScene");
     }
 
-    public void nivel2()
+    public void salir()
     {
-        SceneManager.LoadScene("Nivel2");
+        Application.Quit();
     }
+
+    
 }
